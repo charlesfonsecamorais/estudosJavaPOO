@@ -1,0 +1,28 @@
+package cadastroalunos;
+
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
+
+public class CadastroAlunos {
+
+	public static void main(String[] args) throws IOException {
+		Scanner scanner = new Scanner(System.in);
+		ArrayList<String> cadastroAlunos = new ArrayList<String>();	
+		
+		Path arquivo = Paths.get("D:\\Estudos\\Java\\CursoJavaAlgaWorks\\arquivosgerados\\lista.txt");
+		List<String> listaAlunos = Files.readAllLines(arquivo);
+		
+		String posicaoAnterior = "";
+		String posicaoAtual = "";
+		
+		System.out.println(listaAlunos);
+		
+		scanner.close();
+	}
+
+}

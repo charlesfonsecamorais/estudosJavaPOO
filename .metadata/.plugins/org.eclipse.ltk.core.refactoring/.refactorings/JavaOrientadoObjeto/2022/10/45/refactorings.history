@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;listatarefas.ListaTarefas&apos; to &apos;CriarListaTarefas&apos;&#x0D;&#x0A;- Original project: &apos;JavaOrientadoObjeto&apos;&#x0D;&#x0A;- Original element: &apos;listatarefas.ListaTarefas&apos;&#x0D;&#x0A;- Renamed element: &apos;listatarefas.CriarListaTarefas&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;ListaTarefas&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;listatarefas{ListaTarefas.java[ListaTarefas" matchStrategy="1" name="CriarListaTarefas" qualified="false" references="true" similarDeclarations="false" stamp="1667090622831" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;entities.BankAccount.java&apos; to &apos;Account.java&apos;&#x0D;&#x0A;- Original project: &apos;BancoCursoEmVideo&apos;&#x0D;&#x0A;- Original element: &apos;entities.BankAccount.java&apos;&#x0D;&#x0A;- Renamed element: &apos;entities.Account.java&apos;" description="Rename compilation unit &apos;BankAccount.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;entities{BankAccount.java" name="Account.java" references="false" stamp="1672696534074" version="1.0"/>
+</session>
